@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL support
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# Excel temporary logs/outputs (opsional, agar file tes tidak terupload)
+*.xlsx
+.DS_Store
+Thumbs.db
