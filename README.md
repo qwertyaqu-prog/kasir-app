@@ -272,4 +272,4 @@ Terima kasih telah menggunakan KASIR PRO!
 
 Jika ada pertanyaan atau saran, silakan hubungi developer.
 
-© 2024 KASIR PRO - Professional POS System
+© 2026 KASIR PRO - Professional POS System
